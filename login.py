@@ -1,2 +1,7 @@
 user_name = 'lisi'
-num3 = 300
+
+num3 = 30
+
+
+
+
